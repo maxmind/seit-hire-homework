@@ -1,6 +1,6 @@
 Your task is to write a script that prints a list of test cases that will be run by our existing testing infrastructure.
 
-At [GeoIP2 Precision Web Services/MaxMind Developer Site](https://dev.maxmind.com/geoip/geoip2/web-services/), under the section `IP Address`, you will find a description of the IP address format accepted by GeoIP2 web services.
+At [GeoIP2 Precision Web Services/MaxMind Developer Site](https://dev.maxmind.com/geoip/docs/web-services/), under the section `IP Address`, you will find a description of the IP address format accepted by GeoIP2 web services.
 
 As part of the test suite we maintain for the GeoIP2 Precision Web Services, we send IP addresses to a test server, and check it responds correctly. Part of the test plan requires we test the parsing of IP addresses. From the GeoIP2 link above:
 
